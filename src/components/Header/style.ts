@@ -21,6 +21,8 @@ export const HeaderContainer = styled.div`
 
             border-top: 3px solid transparent;
             border-bottom: 3px solid transparent;
+
+            box-shadow: none;
         }
 
         a:hover{
